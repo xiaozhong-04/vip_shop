@@ -1,0 +1,23 @@
+{
+  "id": "1301672",
+  "name": "xiaoz",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2787036",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "5297049",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    }
+  ]
+}
